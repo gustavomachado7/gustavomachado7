@@ -11,11 +11,11 @@ Desenvolvimento de APIs, sistemas corporativos e soluções orientadas a negóci
 
 ## Sobre mim
 
-Sou Engenheiro de Software com foco em Backend e formado em Sistemas de Informação.
+Sou Engenheiro de Software com foco em Backend, formado em Sistemas de Informação.
 
-Tenho experiência na construção de APIs, integrações e aplicações corporativas, trabalhando com boas práticas de engenharia, qualidade de código e evolução de sistemas.
+Atuo no desenvolvimento de aplicações, APIs e integrações, com foco em código limpo, qualidade e soluções alinhadas às necessidades do negócio.
 
-Atuei no mercado financeiro, participando do desenvolvimento de soluções para ambientes críticos.
+Tenho experiência no mercado financeiro, contribuindo na evolução de sistemas corporativos e aplicações utilizadas em operações críticas.
 
 ---
 
