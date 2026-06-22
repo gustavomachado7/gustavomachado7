@@ -1,7 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gustavo%20Machado&fontSize=45&fontColor=ffffff"/>
-### Software Engineer | Backend Developer
+
+</div>
+
+<div align="center">
+
+## Software Engineer | Backend Developer
 
 Desenvolvimento de APIs, sistemas corporativos e soluções orientadas a negócio.
 
@@ -66,16 +71,14 @@ Atuação em:
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
 ---
 
 ## Projetos
 
-### Backend APIs
-
-Projetos envolvendo:
+Projetos em desenvolvimento focados em aplicações backend, incluindo:
 
 - Desenvolvimento de APIs REST
 - Implementação de regras de negócio
