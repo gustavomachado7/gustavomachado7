@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Gustavo%20Machado&fontSize=45&fontColor=ffffff"/>
 
-# Gustavo Machado
-
 ### Software Engineer | Backend Developer
 
 Desenvolvimento de APIs, sistemas corporativos e soluções orientadas a negócio.
@@ -88,8 +86,6 @@ Projetos envolvendo:
 - Testes automatizados
 
 ---
-
-## GitHub
 
 <div align="center">
 
